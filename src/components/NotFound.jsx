@@ -8,7 +8,7 @@ class NotFound extends Component {
   render() {
     return (
       <div className="container">
-        <haeder tagline="404- page not found!" />
+        <Header tagline="404- page not found!" />
         <div className="alert alert-warning">
           <strong>
             Ooops .... sorry!<br />
