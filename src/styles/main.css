@@ -6313,4 +6313,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  background-color: green; }
+  margin: 1rem; }
+
+.header {
+  margin-bottom: 1rem; }
