@@ -1,5 +1,5 @@
 import React from 'react';
 import { render } from 'react-dom';
-import Header from './components/Header';
+import App from './components/App';
 import './styles/main.css';
-render(<Header />, document.querySelector('#main'));
+render(<App />, document.querySelector('#main'));
